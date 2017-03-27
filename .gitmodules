@@ -1,0 +1,12 @@
+[submodule "ansible"]
+	path = ansible
+	url = https://github.com/quanhonglin/Ansible.git
+[submodule "mblog"]
+	path = mblog
+	url = https://github.com/quanhonglin/mblog.git
+[submodule "/project/web/mblog-deploy/ansible"]
+	path = /project/web/mblog-deploy/ansible
+	url = https://github.com/quanhonglin/ansible.git
+[submodule "/project/web/mblog-deploy/mblog"]
+	path = /project/web/mblog-deploy/mblog
+	url = https://github.com/quanhonglin/mblog.git

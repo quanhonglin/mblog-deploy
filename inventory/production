@@ -9,7 +9,7 @@ remote_python27_path = /usr/bin/python2.7
 
 # uwsgi
 uwsgi_process_num = 4
-uwsgi_listen_num = 1024
+uwsgi_listen_num = 128
 
 #mysql
 mysql_name = mblog
